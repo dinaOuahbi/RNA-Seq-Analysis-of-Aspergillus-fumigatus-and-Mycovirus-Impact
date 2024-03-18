@@ -1,0 +1,54 @@
+-------------------------------------------------- condition_virusfree_vs_infected
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- group_col_vs_api
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- X3_1_vs_3
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- condition_env_virusfree_vs_infected
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- X2_1_vs_2
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- X4_2_vs_3
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- X4_2_vs_4
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- X3_1_vs_2
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- group_env_vs_api
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- X4_3_vs_4
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- X4_1_vs_3
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- X3_2_vs_3
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- X4_1_vs_4
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- condition_api_virusfree_vs_infected
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- group_env_vs_col
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- azoleR_no_vs_yes
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- condition_col_virusfree_vs_infected
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+-------------------------------------------------- X4_1_vs_2
+NO data genes : (9915, 5) ----> NO find genes : (9859, 7)
+DONE !
+Open go-basic.obo
+[Typedef]
+
+[Typedef]
+
+[Typedef]
+
+[Typedef]
+
+[Typedef]
+
+[Typedef]
+
+Export results
+DONE !
+PDFs merged successfully.
+######################### DONE ! #######################################
