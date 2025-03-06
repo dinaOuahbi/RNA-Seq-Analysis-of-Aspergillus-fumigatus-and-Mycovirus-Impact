@@ -51,7 +51,7 @@ Mycoviruses are RNA or DNA viruses that infect fungi without causing apparent cy
 ## Usage
 ### 1. Clone the repository
 ```bash
-git clone [link](https://github.com/dinaOuahbi/mycovirus.git)
+git clone [https://github.com/dinaOuahbi/mycovirus.git]
 cd mycovirus
 ```
 
