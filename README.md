@@ -65,8 +65,8 @@ sbatsh launch.sh
 - **Pathway enrichment**: Highlights functional pathways affected in *A. fumigatus*.
 - **Impact on virulence**: Insights into how mycovirus presence modulates pathogenic potential.
 
-## in
-> [https://www.linkedin.com/in/dina-ouahbi-963a56338/]
+
+in > [https://www.linkedin.com/in/dina-ouahbi-963a56338/]
 
 
 
